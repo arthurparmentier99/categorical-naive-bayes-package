@@ -1,5 +1,6 @@
 install.packages("R6", repos="https://cloud.r-project.org/")
 library(R6)
+install.packages("parallel", repos="https://cloud.r-project.org/")
 library(parallel)
 
 #' Categorical Naive Bayes Classifier
