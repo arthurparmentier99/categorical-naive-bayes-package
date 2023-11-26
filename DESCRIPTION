@@ -2,7 +2,7 @@ Package: packagenaivebayes
 Type: Package
 Title: Categorical Naive Bayes
 Version: 1.0
-Authors@R: Arthur PARMENTIER, Ndeye Fatou DIENG
+Authors: Arthur PARMENTIER, Ndeye Fatou DIENG
 Description: Implementation of the categorical naive bayes.
 License: GNU
 Imports:
