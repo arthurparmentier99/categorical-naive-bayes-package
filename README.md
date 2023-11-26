@@ -26,7 +26,7 @@ You can now load the package and use it:
 ```R
 library(packagenaivebayes)
 ```
-**<span style="color:red;">IMPORTANT</span>**
+**WARNING**  
 If by chance NaiveBayes does not work or you have installed another package using this class name, use `packagenaivebayes::` in front of the commands as in the following examples: 
 ```R
 ?packagenaivebayes::NaiveBayes
